@@ -2,7 +2,8 @@
 
 [DEMO](https://antonlitvin.github.io/waxom/dist)
 
-Test task for React company
+Test task for React company<br>
+Time - 7 hours
 
 Responsive landing page
 
